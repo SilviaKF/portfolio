@@ -1,0 +1,21 @@
+:root {
+    /* CORES */
+    --fundo-body: #FFF;
+    --fundo-conteudo: #F2F2F2;
+    --cor-fonte: #2E2E2E;
+    --fonte-rosa: #DE5E6E;
+    --botao-rosa: #DB8791;
+    --sombra-fundo: 10px 0px 40px rgb(196, 196, 196);
+    --gradiente-h1: linear-gradient(to right, #2e2e2e 0%,#de5e6e 50%,#2e2e2e 98%);
+
+    /* FONTES */
+    --fonte-poppins: 'Poppins', sans-serif;
+
+    /* ICONES */
+    --label-icon: url("../icons/lamp2.png");
+    --logo-site: url("../icons/logo.png");
+    --logo-instagram: url("../icons/instagram2.png");
+    --logo-github: url("../icons/github2.png");
+    --logo-linkedin: url("../icons/linkedin2.png");
+    --logo-email: url("../icons/email2.png");
+}
