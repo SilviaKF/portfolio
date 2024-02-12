@@ -1,0 +1,97 @@
+/* ESTILO DO FOOTER */
+
+.social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 315px;
+
+}
+
+.instagram {
+    background-image: var(--logo-instagram);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 36.77px;
+    height: 36.77px;
+    border: none;
+    cursor: pointer;
+}
+
+.instagram:hover {
+    background-image: url("../icons/instagram_hover2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 36.77px;
+    height: 36.77px;
+    border: none;
+    cursor: pointer;
+}
+
+.github {
+    background-image: var(--logo-github);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 34.86px;
+    height: 37.59px;
+    border: none;
+    cursor: pointer;
+}
+
+.github:hover {
+    background-image: url("../icons/github_hover2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 34.86px;
+    height: 37.59px;
+    border: none;
+    cursor: pointer;
+}
+
+.linkedin {
+    background-image: var(--logo-linkedin);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 36.77px;
+    height: 36.77px;
+    border: none;
+    cursor: pointer;
+}
+
+.linkedin:hover {
+    background-image: url("../icons/linkedin_hover2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 36.77px;
+    height: 36.77px;
+    border: none;
+    cursor: pointer;
+}
+
+.email {
+    background-image: var(--logo-email);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 89.56px;
+    height: 37.5px;
+    border: none;
+    cursor: pointer;
+}
+
+.email:hover {
+    background-image: url("../icons/email_hover2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 89.56px;
+    height: 37.5px;
+    border: none;
+    cursor: pointer;
+}
